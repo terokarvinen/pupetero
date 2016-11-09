@@ -1,4 +1,4 @@
-# Tero's Puppet Examples
+# Funny Config Man Examples
 
 Copyright 2016 Tero Karvinen
 GNU General Public License
