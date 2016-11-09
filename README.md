@@ -1,4 +1,4 @@
-# File changed by Pasi
+# Puppet Examples
 
 Copyright 2016 Tero Karvinen
 GNU General Public License
