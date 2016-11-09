@@ -1,4 +1,4 @@
-# Tero's Puppet Examples
+# File changed by Pasi
 
 Copyright 2016 Tero Karvinen
 GNU General Public License
